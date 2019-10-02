@@ -1,0 +1,23 @@
+{
+  "name": "srilankanic",
+  "version": "1.0.0",
+  "description": "Sri Lanka NIC project aim to provide a variety of services to developer when they deal with Sri Lanka NIC. Such as validation process, Age verification using NIC and convert old NIC to NIC format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushanshamika/SriLankaNIC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushanshamika/SriLankaNIC/issues"
+  },
+  "homepage": "https://github.com/kushanshamika/SriLankaNIC#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
