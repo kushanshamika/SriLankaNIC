@@ -57,7 +57,7 @@ app.use(function(req, res, next) {
     }else{
 
     }
-
+      //THIS IS WHERE THE RESPONSE HANDLES
 
     var respone = {type:nicType,newFormat:newNIC,birthYear:year,birthDate:birthDate}
 
